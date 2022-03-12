@@ -1,3 +1,3 @@
 # pplprak-GIT
 Getting started with GitHub
-- Edit file README
+- Ubah file README 
